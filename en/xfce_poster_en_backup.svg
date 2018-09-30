@@ -11,15 +11,13 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.0"
-   width="3178.5825"
-   height="4493.8584"
+   width="2979.9211"
+   height="4212.9922"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="xfce_poster_en.svg"
-   inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   viewBox="0 0 2979.9211 4212.9922"
-   enable-background="new">
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="xfce_poster_en.pdf"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <metadata
      id="metadata179">
     <rdf:RDF>
@@ -28,12 +26,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:window-height="1015"
+     inkscape:window-height="1104"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -44,52 +42,41 @@
      bordercolor="#666666"
      pagecolor="#ffffff"
      id="base"
-     inkscape:zoom="0.14239703"
-     inkscape:cx="2220.4323"
-     inkscape:cy="1754.5223"
+     inkscape:zoom="0.16900103"
+     inkscape:cx="276.1095"
+     inkscape:cy="3159.3879"
      inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:current-layer="layer11"
+     inkscape:window-y="31"
+     inkscape:current-layer="svg2"
      showgrid="false"
      inkscape:window-maximized="1"
      inkscape:snap-global="true"
-     showguides="false"
-     inkscape:guide-bbox="true"
-     inkscape:measure-start="222.033,3460.4"
-     inkscape:measure-end="419.602,3460.4">
+     showguides="true"
+     inkscape:guide-bbox="true">
     <sodipodi:guide
        orientation="1,0"
        position="2763.2968,3647.9068"
-       id="guide3290"
-       inkscape:locked="false" />
+       id="guide3290" />
     <sodipodi:guide
        orientation="1,0"
        position="208.15591,2542.8493"
-       id="guide3292"
-       inkscape:locked="false" />
+       id="guide3292" />
     <sodipodi:guide
        orientation="0,1"
        position="1236.6789,3594.6526"
-       id="guide3372"
-       inkscape:locked="false" />
+       id="guide3372" />
     <sodipodi:guide
        orientation="0,1"
        position="1502.0697,3441.3715"
-       id="guide3578"
-       inkscape:locked="false" />
+       id="guide3578" />
     <sodipodi:guide
        orientation="0,1"
        position="1349.1042,3372.7605"
-       id="guide3620"
-       inkscape:locked="false" />
+       id="guide3620" />
     <sodipodi:guide
        orientation="0,1"
        position="1271.9476,2727.993"
-       id="guide3758"
-       inkscape:locked="false" />
-    <inkscape:grid
-       type="xygrid"
-       id="grid1159" />
+       id="guide3758" />
   </sodipodi:namedview>
   <defs
      id="defs4">
@@ -555,16 +542,16 @@
     </linearGradient>
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 59.999999 : 1"
-       inkscape:vp_y="0 : 999.99999 : 0"
-       inkscape:vp_z="247 : 59.999999 : 1"
+       inkscape:vp_x="0 : 60 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="247 : 60 : 1"
        inkscape:persp3d-origin="123.5 : 40 : 1"
        id="perspective2486" />
     <inkscape:perspective
        id="perspective2552"
-       inkscape:persp3d-origin="372.04723 : 350.78738 : 1"
-       inkscape:vp_z="744.09447 : 526.18108 : 1"
-       inkscape:vp_y="0 : 999.99999 : 0"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 526.18109 : 1"
        sodipodi:type="inkscape:persp3d" />
     <radialGradient
@@ -614,14 +601,16 @@
     <mask
        maskUnits="userSpaceOnUse"
        id="mask3732">
-      <ellipse
-         transform="rotate(15.334185,-99.982281,111.11358)"
+      <path
+         transform="matrix(0.9643998,0.2644485,-0.2644485,0.9643998,25.824431,30.39583)"
+         d="M 88.565125,47.025661 A 59.750523,28.461048 0 1 1 -30.935921,47.025661 A 59.750523,28.461048 0 1 1 88.565125,47.025661 z"
+         sodipodi:ry="28.461048"
+         sodipodi:rx="59.750523"
+         sodipodi:cy="47.025661"
+         sodipodi:cx="28.814602"
          id="path3734"
          style="opacity:0.2;fill:url(#radialGradient3736);fill-opacity:1;stroke:#0a2a49;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         cx="28.814602"
-         cy="47.025661"
-         rx="59.750523"
-         ry="28.461048" />
+         sodipodi:type="arc" />
     </mask>
     <mask
        maskUnits="userSpaceOnUse"
@@ -736,29 +725,29 @@
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
        inkscape:vp_x="0 : 526.18109 : 1"
-       inkscape:vp_y="0 : 999.99999 : 0"
-       inkscape:vp_z="744.09447 : 526.18108 : 1"
-       inkscape:persp3d-origin="372.04723 : 350.78738 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
        id="perspective2620" />
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
        inkscape:vp_x="0 : 526.18109 : 1"
-       inkscape:vp_y="0 : 999.99999 : 0"
-       inkscape:vp_z="744.09447 : 526.18108 : 1"
-       inkscape:persp3d-origin="372.04723 : 350.78738 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
        id="perspective2551" />
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
        inkscape:vp_x="0 : 526.18109 : 1"
-       inkscape:vp_y="0 : 999.99999 : 0"
-       inkscape:vp_z="744.09447 : 526.18108 : 1"
-       inkscape:persp3d-origin="372.04723 : 350.78738 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
        id="perspective2467" />
     <inkscape:perspective
        id="perspective10"
-       inkscape:persp3d-origin="372.04723 : 350.78738 : 1"
-       inkscape:vp_z="744.09447 : 526.18108 : 1"
-       inkscape:vp_y="0 : 999.99999 : 0"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 526.18109 : 1"
        sodipodi:type="inkscape:persp3d" />
     <linearGradient
@@ -911,241 +900,152 @@
        y2="243.85612" />
   </defs>
   <g
-     inkscape:groupmode="layer"
-     id="layer9"
-     inkscape:label="Text Containers"
-     style="display:inline">
-    <g
-       id="g1064"
-       transform="translate(-4.3066446e-6,1.8207211e-4)">
-      <rect
-         width="1115.9934"
-         height="870.06488"
-         rx="46.317905"
-         ry="31.219917"
-         x="208.15591"
-         y="618.3396"
-         style="fill:#eeeeee;fill-opacity:1;stroke:#cccccc;stroke-width:8.47848129;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect3305-2-0-9"
-         transform="translate(0,-1.6593933e-4)" />
-    </g>
-    <g
-       id="g3999"
-       transform="translate(0,4.2915344e-6)">
-      <rect
-         id="rect3305-2-0-7"
-         style="fill:#eeeeee;fill-opacity:1;stroke:#cccccc;stroke-width:12.08495235;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         y="3246.2837"
-         x="208.15617"
-         ry="27.703356"
-         rx="106.0479"
-         height="772.06213"
-         width="2555.1406" />
-    </g>
+     id="g4304"
+     transform="matrix(1.2700985,0,0,1.1764478,2058.4813,-618.93936)">
     <rect
-       transform="translate(0,-1.6593933e-4)"
-       id="rect3305-2-0"
-       style="fill:#eeeeee;fill-opacity:1;stroke:#cccccc;stroke-width:8.46735001;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       y="618.3396"
-       x="1647.3033"
-       ry="31.137993"
-       rx="46.317905"
-       height="867.78174"
-       width="1115.9934" />
+       id="rect3249"
+       style="fill:#eeeeee;fill-opacity:1;stroke:#cccccc;stroke-width:7.78191137;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       y="2046.536"
+       x="905.99976"
+       ry="38.738586"
+       rx="38.738586"
+       height="763.51611"
+       width="934.23102" />
+    <text
+       xml:space="preserve"
+       id="text3251"
+       style="font-size:49.10807419px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       y="2158.3684"
+       x="990.02191"><tspan
+         id="tspan3253"
+         style="font-size:73.66210938px;font-weight:bold;fill:#154374;fill-opacity:1"
+         y="2158.3684"
+         x="990.02191">Core Components</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text3255"
+       style="font-size:57.29275131px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#154374;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       y="2259.5081"
+       x="1085.4934"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4270"
+         x="1085.4934"
+         y="2259.5081">Panel</tspan><tspan
+         sodipodi:role="line"
+         id="tspan4272"
+         x="1085.4934"
+         y="2331.124">Window Manager</tspan><tspan
+         sodipodi:role="line"
+         id="tspan4274"
+         x="1085.4934"
+         y="2402.74">Desktop Manager</tspan><tspan
+         sodipodi:role="line"
+         id="tspan4276"
+         x="1085.4934"
+         y="2474.356">Power Manager</tspan><tspan
+         sodipodi:role="line"
+         id="tspan4278"
+         x="1085.4934"
+         y="2545.9719">Session Manager</tspan><tspan
+         sodipodi:role="line"
+         id="tspan4280"
+         x="1085.4934"
+         y="2617.5876">Settings Manager</tspan><tspan
+         sodipodi:role="line"
+         id="tspan4282"
+         x="1085.4934"
+         y="2689.2036">File Manager</tspan><tspan
+         sodipodi:role="line"
+         id="tspan4284"
+         x="1085.4934"
+         y="2760.8196">Application Finder</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:57.29275131px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       y="2294.7156"
+       x="1071.5171"
+       id="text4212" />
+    <text
+       xml:space="preserve"
+       style="font-size:57.29275131px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       y="2294.7156"
+       x="1071.5171"
+       id="text4196"><tspan
+         style="fill:#154374;fill-opacity:1"
+         y="2366.3315"
+         x="1071.5171"
+         id="tspan4198" /></text>
+  </g>
+  <g
+     id="g4470"
+     inkscape:label="#text3390"
+     transform="matrix(1.1947222,0,0,1.0853613,4028.3673,-81.965151)">
+    <rect
+       id="rect3305"
+       style="fill:#eeeeee;fill-opacity:1;stroke:#cccccc;stroke-width:7.89809132;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       y="105.33173"
+       x="74.363441"
+       ry="32.367329"
+       rx="38.768764"
+       height="902.04199"
+       width="934.10284" />
+    <text
+       xml:space="preserve"
+       id="text3311"
+       style="font-size:57.29275131px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#154374;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       y="962.77039"
+       x="-116.58496"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4236"
+         x="-116.58496"
+         y="962.77039">Text editor Mousepad</tspan><tspan
+         sodipodi:role="line"
+         id="tspan4238"
+         x="-116.58496"
+         y="1034.3864">Web browser Midori</tspan><tspan
+         sodipodi:role="line"
+         id="tspan4240"
+         x="-116.58496"
+         y="1106.0023">Terminal</tspan><tspan
+         sodipodi:role="line"
+         id="tspan4242"
+         x="-116.58496"
+         y="1177.6182">Volume control Mixer</tspan><tspan
+         sodipodi:role="line"
+         id="tspan4244"
+         x="-116.58496"
+         y="1249.2341">Media player Parole</tspan><tspan
+         sodipodi:role="line"
+         id="tspan4246"
+         x="-116.58496"
+         y="1320.8501">Image viewer Ristretto</tspan><tspan
+         sodipodi:role="line"
+         id="tspan4248"
+         x="-116.58496"
+         y="1392.4661">Burn media with Xfburn</tspan><tspan
+         sodipodi:role="line"
+         id="tspan4250"
+         x="-116.58496"
+         y="1464.0819">Calender Orage</tspan><tspan
+         sodipodi:role="line"
+         id="tspan4252"
+         x="-116.58496"
+         y="1535.6979">Archive manager Squeeze</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
-     id="layer11"
-     inkscape:label="Text"
-     style="display:inline">
-    <g
-       id="g1141" />
-    <text
-       transform="translate(0,-1.6593933e-4)"
-       id="text3602"
-       y="884.98853"
-       x="1834.2816"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#154374;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1"
-         y="884.98853"
-         x="1834.2816"
-         id="tspan3604"
-         sodipodi:role="line">Panel</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1"
-         id="tspan3606"
-         y="954.98853"
-         x="1834.2816"
-         sodipodi:role="line">Window Manager</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1"
-         id="tspan3608"
-         y="1024.9885"
-         x="1834.2816"
-         sodipodi:role="line">Desktop Manager</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1"
-         id="tspan3610"
-         y="1094.9885"
-         x="1834.2816"
-         sodipodi:role="line">Power Manager</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1"
-         id="tspan3612"
-         y="1164.9885"
-         x="1834.2816"
-         sodipodi:role="line">Session Manager</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1"
-         id="tspan3614"
-         y="1234.9885"
-         x="1834.2816"
-         sodipodi:role="line">Settings Manager</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1"
-         id="tspan3616"
-         y="1304.9885"
-         x="1834.2816"
-         sodipodi:role="line">File Manager</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1"
-         id="tspan3618"
-         y="1374.9885"
-         x="1834.2816"
-         sodipodi:role="line">Application Finder</tspan></text>
-    <text
-       transform="matrix(1.035455,0,0,0.96575905,0,-1.6593933e-4)"
-       x="427.6434"
-       y="796.57654"
-       style="font-style:normal;font-weight:normal;font-size:59.4103775px;line-height:0%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none"
-       id="text3307"
-       xml:space="preserve"><tspan
-         x="427.6434"
-         y="796.57654"
-         style="font-weight:bold;font-size:90px;fill:#154374;fill-opacity:1"
-         id="tspan3309">Applications</tspan></text>
-    <text
-       x="1672.879"
-       y="796.63593"
-       style="font-style:normal;font-weight:normal;font-size:60.02856064px;line-height:0%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none"
-       id="text3251-1"
-       xml:space="preserve"
-       transform="matrix(1.0390402,0,0,0.96242671,0,-1.6593933e-4)"><tspan
-         x="1672.879"
-         y="796.63593"
-         style="font-weight:bold;font-size:90px;fill:#154374;fill-opacity:1"
-         id="tspan3253-03">Core Components</tspan></text>
-    <text
-       x="1225.9966"
-       y="3496.9412"
-       style="font-style:normal;font-weight:normal;font-size:60.02856064px;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       id="text3251-8-5"
-       xml:space="preserve"
-       transform="matrix(1.0390402,0,0,0.96242671,0,4.2915344e-6)"><tspan
-         x="1225.9966"
-         y="3496.9412"
-         style="font-weight:bold;font-size:90px;fill:#154374;fill-opacity:1"
-         id="tspan3253-0-4">Goodies</tspan></text>
-    <text
-       id="text3602-3"
-       y="880.87054"
-       x="386.86548"
-       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#154374;fill-opacity:1;stroke:none;stroke-width:1"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1;stroke-width:1"
-         id="tspan3618-9"
-         y="880.87054"
-         x="386.86548"
-         sodipodi:role="line">Text editor Mousepad</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1;stroke-width:1"
-         y="950.87054"
-         x="386.86548"
-         sodipodi:role="line"
-         id="tspan1140">Web browser Midori</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1;stroke-width:1"
-         y="1020.8705"
-         x="386.86548"
-         sodipodi:role="line"
-         id="tspan1142">Terminal</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1;stroke-width:1"
-         y="1090.8706"
-         x="386.86548"
-         sodipodi:role="line"
-         id="tspan1144">Volume control Mixer</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1;stroke-width:1"
-         y="1160.8706"
-         x="386.86548"
-         sodipodi:role="line"
-         id="tspan1146">Media player Parole</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1;stroke-width:1"
-         y="1230.8706"
-         x="386.86548"
-         sodipodi:role="line"
-         id="tspan1148">Image viewer Ristretto</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1;stroke-width:1"
-         y="1300.8706"
-         x="386.86548"
-         sodipodi:role="line"
-         id="tspan1150">Burn media with Xfburn</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1;stroke-width:1"
-         y="1370.8706"
-         x="386.86548"
-         sodipodi:role="line"
-         id="tspan1152">Calendar Orage</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1;stroke-width:1"
-         y="1440.8706"
-         x="386.86548"
-         sodipodi:role="line"
-         id="tspan1154">Archive manager Squeeze</tspan></text>
-    <text
-       id="text3602-3-1"
-       y="3469.1975"
-       x="370.5856"
-       style="font-style:normal;font-weight:normal;font-size:11.90904427px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#154374;fill-opacity:1;stroke:none;stroke-width:0.99242038"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:55.57553864px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1;stroke-width:0.99242038"
-         y="3469.1975"
-         x="370.5856"
-         sodipodi:role="line"
-         id="tspan1154-2">Panel plugins (for resources, clipboard management, launchers, ...)</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:55.57553864px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1;stroke-width:0.99242038"
-         y="3538.667"
-         x="370.5856"
-         sodipodi:role="line"
-         id="tspan1242">File Manager plugins (customisable &quot;Send to&quot;, rename, media tags, archives, ...)</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:55.57553864px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1;stroke-width:0.99242038"
-         y="3608.1365"
-         x="370.5856"
-         sodipodi:role="line"
-         id="tspan1244">Manage remote filesystems (SFTP, FTP, WebDAV, Windows shares, Archives)</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:55.57553864px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1;stroke-width:0.99242038"
-         y="3677.6057"
-         x="370.5856"
-         sodipodi:role="line"
-         id="tspan1246">Download Manager</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:55.57553864px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1;stroke-width:0.99242038"
-         y="3747.0752"
-         x="370.5856"
-         sodipodi:role="line"
-         id="tspan1248">Task Manager</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:55.57553864px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1;stroke-width:0.99242038"
-         y="3816.5447"
-         x="370.5856"
-         sodipodi:role="line"
-         id="tspan1250">Screenshoot application</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:55.57553864px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1;stroke-width:0.99242038"
-         y="3886.0142"
-         x="370.5856"
-         sodipodi:role="line"
-         id="tspan1252">Dictionary</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:55.57553864px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1;stroke-width:0.99242038"
-         y="3955.4834"
-         x="370.5856"
-         sodipodi:role="line"
-         id="tspan1254">Various MPD clients</tspan></text>
-  </g>
+     id="layer9"
+     inkscape:label="Ebene" />
   <text
      xml:space="preserve"
      id="text4489"
-     style="font-size:96px;line-height:0%"
+     style="font-size:96px"
      y="4156.8418"
      x="1117.6171"><tspan
        id="tspan4491"
-       style="font-style:normal;font-weight:bold;font-size:96px;fill:#cccccc;fill-opacity:1"
+       style="font-size:96px;font-style:normal;font-weight:bold;fill:#cccccc;fill-opacity:1"
        y="4156.8418"
        x="1117.6171">www.xfce.org</tspan></text>
   <image
@@ -1158,50 +1058,128 @@
   <flowRoot
      xml:space="preserve"
      id="flowRoot3298"
-     style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
-       id="flowRegion3300"
-       style="font-family:sans-serif"><rect
+     style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+       id="flowRegion3300"><rect
          id="rect3302"
          width="23.668495"
          height="130.17673"
          x="1319.5186"
-         y="1035.4967"
-         style="font-family:sans-serif" /></flowRegion><flowPara
-       id="flowPara3304"
-       style="font-size:40px;line-height:1.25;font-family:sans-serif"> </flowPara></flowRoot>  <g
+         y="1035.4967" /></flowRegion><flowPara
+       id="flowPara3304" /></flowRoot>  <g
+     id="g4304-5"
+     transform="matrix(1.2700985,0,0,1.1764478,-880.09163,1956.8191)">
+    <a
+       id="a4975">
+      <rect
+         width="2194.3809"
+         height="564.78729"
+         rx="90.991638"
+         ry="28.655661"
+         x="874.57965"
+         y="2243.9788"
+         style="fill:#eeeeee;fill-opacity:1;stroke:#cccccc;stroke-width:10.25766373;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3249-0" />
+    </a>
+    <text
+       xml:space="preserve"
+       id="text3251-8"
+       style="font-size:49.10807419px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       y="2324.3469"
+       x="1809.9691"><tspan
+         id="tspan3253-0"
+         style="font-size:73.62706303px;font-weight:bold;fill:#154374;fill-opacity:1"
+         y="2324.3469"
+         x="1809.9691">Goodies</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text3255-5"
+       style="font-size:44.74660492px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#154374;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       y="2465.2307"
+       x="916.12427"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0271943,0.97352565)"><tspan
+         sodipodi:role="line"
+         id="tspan4369"
+         x="916.12427"
+         y="2465.2307">Many Panel plugins (for System resources, clipboard management, launchers, ...)</tspan><tspan
+         sodipodi:role="line"
+         id="tspan4371"
+         x="916.12427"
+         y="2521.1641">Many File Manager plugins (customisable &quot;Send to&quot;, bulk rename, media tags, archives, ...)</tspan><tspan
+         sodipodi:role="line"
+         id="tspan4373"
+         x="916.12427"
+         y="2577.0972">Manage remote filesystems (SFTP, FTP, WebDAV, Windows shares, Archives)</tspan><tspan
+         sodipodi:role="line"
+         id="tspan4375"
+         x="916.12427"
+         y="2633.0305">Download Manager</tspan><tspan
+         sodipodi:role="line"
+         id="tspan4377"
+         x="916.12427"
+         y="2688.9636">Task Manager</tspan><tspan
+         sodipodi:role="line"
+         id="tspan4379"
+         x="916.12427"
+         y="2744.897">Screenshoot application</tspan><tspan
+         sodipodi:role="line"
+         id="tspan4381"
+         x="916.12427"
+         y="2800.8303">Dictionary</tspan><tspan
+         sodipodi:role="line"
+         id="tspan4383"
+         x="916.12427"
+         y="2856.7634">Various MPC clients</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:57.29275131px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       y="2294.7156"
+       x="1071.5171"
+       id="text4212-2" />
+    <text
+       xml:space="preserve"
+       style="font-size:57.29275131px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       y="2294.7156"
+       x="1071.5171"
+       id="text4196-4"><tspan
+         style="fill:#154374;fill-opacity:1"
+         y="2366.3315"
+         x="1071.5171"
+         id="tspan4198-0" /></text>
+  </g>
+  <g
      id="g3374"
-     transform="translate(1.9851398,-15.945684)"
-     style="display:inline">
+     transform="translate(1.9851398,-15.945684)">
     <path
-       d="M 2947.1559,174.58949 V 575.90917 L 29.205519,575.54404 28.794963,174.58949 c 0,-87.888664 70.755142,-158.643806 158.643817,-158.643806 H 2788.5121 c 87.8887,0 158.6438,70.755142 158.6438,158.643806 z"
+       d="m 2947.1559,174.58949 0,401.31968 L 29.205519,575.54404 28.794963,174.58949 c 0,-87.888664 70.755142,-158.643806 158.643817,-158.643806 l 2601.07332,0 c 87.8887,0 158.6438,70.755142 158.6438,158.643806 z"
        style="fill:#03689a;fill-opacity:1;stroke:none"
        id="rect2160"
        inkscape:connector-curvature="0" />
     <text
-       x="648.05981"
-       y="198.8317"
-       style="font-style:normal;font-weight:normal;font-size:65.50814819px;line-height:0%;font-family:'Bitstream Vera Sans';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.33301413"
+       x="651.06439"
+       y="233.41612"
+       style="font-size:49.14287949px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
        id="text3219"
        xml:space="preserve"><tspan
-         x="648.05981"
-         y="198.8317"
-         style="font-weight:bold;font-size:131.01629639px;fill:#ffffff;fill-opacity:1;stroke-width:1.33301413"
+         x="651.06439"
+         y="233.41612"
+         style="font-size:98.28575897px;font-weight:bold;fill:#ffffff;fill-opacity:1"
          id="tspan3221">Desktop</tspan><tspan
-         x="648.05981"
-         y="362.60208"
-         style="font-weight:bold;font-size:131.01629639px;fill:#ffffff;fill-opacity:1;stroke-width:1.33301413"
+         x="651.06439"
+         y="356.27332"
+         style="font-size:98.28575897px;font-weight:bold;fill:#ffffff;fill-opacity:1"
          id="tspan3223">Environment</tspan></text>
     <text
-       x="653.05475"
-       y="515.17578"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
+       sodipodi:linespacing="125%"
+       x="787.57922"
+       y="443.70969"
+       style="font-size:57.33336258px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
        id="text3225"
        xml:space="preserve"><tspan
          id="tspan4157"
          sodipodi:role="line"
-         x="653.05475"
-         y="515.17578"
-         style="font-size:57.33336258px;line-height:1.25">lightweight and user friendly</tspan></text>
+         x="787.57922"
+         y="443.70969">...a lightweight and user friendly desktop environment</tspan></text>
     <g
        transform="matrix(0.60020013,0,0,0.60020013,138.12636,83.557133)"
        id="g4247">
@@ -1212,8 +1190,7 @@
       <g
          id="layer2"
          inkscape:label="Big X"
-         transform="translate(-27.365845,-294.46543)"
-         style="display:inline">
+         transform="translate(-27.365845,-294.46543)">
         <g
            inkscape:groupmode="layer"
            id="layer3"
@@ -1234,34 +1211,28 @@
         <g
            inkscape:groupmode="layer"
            id="layer7"
-           inkscape:label="Xfce_Shadow"
-           style="display:inline" />
+           inkscape:label="Xfce_Shadow" />
         <g
            inkscape:groupmode="layer"
            id="layer6"
-           inkscape:label="Xfce_Path"
-           style="display:inline" />
+           inkscape:label="Xfce_Path" />
         <g
            inkscape:groupmode="layer"
            id="layer13"
-           inkscape:label="Xfce_Gloss"
-           style="display:inline" />
+           inkscape:label="Xfce_Gloss" />
       </g>
       <g
          id="layer8"
          inkscape:label="Mouse"
-         transform="translate(-27.365845,-294.46543)"
-         style="display:inline">
+         transform="translate(-27.365845,-294.46543)">
         <g
            inkscape:groupmode="layer"
            id="layer12"
-           inkscape:label="Mouse_Shadow"
-           style="display:inline" />
+           inkscape:label="Mouse_Shadow" />
         <g
            inkscape:groupmode="layer"
            id="layer10"
-           inkscape:label="Mouse_Path"
-           style="display:inline">
+           inkscape:label="Mouse_Path">
           <g
              id="g4088"
              transform="translate(10,12.002506)">
@@ -1278,17 +1249,17 @@
             <path
                inkscape:connector-curvature="0"
                id="path3900"
-               d="m 561.25,339.87477 c -49.90816,56.41605 -99.19302,113.59071 -149.59375,169.40625 -6.1568,3.2536 -9.94488,-4.84051 -13.27777,-8.42732 C 342.83849,434.28143 288.85339,366.42433 233.9375,299.31227 c -49.07865,46.41447 -98.57209,92.38701 -147.875,138.5625 62.96627,67.80458 125.18275,136.35139 188.71875,203.53125 5.09309,2.2995 5.91984,9.29912 1.46875,12.71875 -33.41117,34.02549 -65.83008,69.31806 -98.83479,103.85185 -37.50197,39.61798 -75.0024,79.2385 -112.82146,118.5544 44.94103,44.60175 89.31475,90.27485 134.90625,133.74998 64.75158,-75.442 128.40501,-152.15774 193.5625,-227.21873 3.32123,-3.38668 7.71312,-0.242 9.50873,3.131 63.12565,72.61381 124.84723,146.60617 187.97213,219.15333 3.73961,5.4362 8.20723,-5.2793 12.30128,-7.21143 46.42152,-43.58398 93.5388,-86.38911 139.87411,-130.0729 -69.92176,-73.80825 -140.0266,-147.46041 -209.15625,-222 -3.56147,-3.34515 -3.72191,-9.43187 0.77263,-12.14936 66.24781,-67.7073 132.32347,-135.73448 198.74559,-203.17832 1.97122,-1.34619 6.07959,-4.69808 1.63803,-5.85982 C 689.0605,382.66215 643.3153,340.55086 597.78125,298.21852 585.60417,312.10394 573.42708,325.98935 561.25,339.87477 Z"
+               d="m 561.25,339.87477 c -49.90816,56.41605 -99.19302,113.59071 -149.59375,169.40625 -6.1568,3.2536 -9.94488,-4.84051 -13.27777,-8.42732 C 342.83849,434.28143 288.85339,366.42433 233.9375,299.31227 c -49.07865,46.41447 -98.57209,92.38701 -147.875,138.5625 62.96627,67.80458 125.18275,136.35139 188.71875,203.53125 5.09309,2.2995 5.91984,9.29912 1.46875,12.71875 -33.41117,34.02549 -65.83008,69.31806 -98.83479,103.85185 -37.50197,39.61798 -75.0024,79.2385 -112.82146,118.5544 44.94103,44.60175 89.31475,90.27485 134.90625,133.74998 64.75158,-75.442 128.40501,-152.15774 193.5625,-227.21873 3.32123,-3.38668 7.71312,-0.242 9.50873,3.131 63.12565,72.61381 124.84723,146.60617 187.97213,219.15333 3.73961,5.4362 8.20723,-5.2793 12.30128,-7.21143 46.42152,-43.58398 93.5388,-86.38911 139.87411,-130.0729 -69.92176,-73.80825 -140.0266,-147.46041 -209.15625,-222 -3.56147,-3.34515 -3.72191,-9.43187 0.77263,-12.14936 66.24781,-67.7073 132.32347,-135.73448 198.74559,-203.17832 1.97122,-1.34619 6.07959,-4.69808 1.63803,-5.85982 C 689.0605,382.66215 643.3153,340.55086 597.78125,298.21852 585.60417,312.10394 573.42708,325.98935 561.25,339.87477 z"
                style="fill:url(#radialGradient3411);fill-opacity:1" />
             <path
                inkscape:connector-curvature="0"
                style="opacity:0.7;fill:#000000;fill-opacity:1;filter:url(#filter3721)"
-               d="m 67.288897,930.1973 -21.24585,-21.2458 34.15805,-34.1688 34.158063,-34.16884 -24.331323,-25.83533 c -13.38221,-14.20944 -27.64987,-29.24142 -31.70591,-33.4044 l -7.37461,-7.56905 24.46052,-23.70276 24.46051,-23.70275 11.336163,13.89034 c 6.23488,7.63969 18.69554,22.9495 27.69037,34.02181 8.99483,11.07231 16.71171,20.13147 17.14863,20.13147 0.43692,0 9.46583,-10.6875 20.06425,-23.75 26.60067,-32.78521 34.34915,-42.14349 34.94141,-42.2008 0.27969,-0.0271 10.36823,9.81815 22.41898,21.87824 l 21.91044,21.92744 -24.45342,25.32256 c -13.44938,13.92741 -27.56001,28.59621 -31.35696,32.59735 l -6.90355,7.27479 4.48316,4.72521 c 2.46573,2.59886 12.30776,13.05022 21.87118,23.22522 9.56341,10.175 22.13263,23.3347 27.9316,29.2438 l 10.54358,10.7438 -22.30939,22.39 -22.30939,22.39 -30.99252,-35.3838 c -17.04589,-19.4611 -31.36136,-35.3838 -31.81217,-35.3838 -0.4508,0 -14.16446,16.2 -30.47479,36 -16.31035,19.8 -29.971523,36 -30.358173,36 -0.38665,0 -10.26363,-9.5606 -21.94885,-21.2459 z M 284.04065,846.44319 v -104 h 60.5 60.5 v 25.5 25.5 h -28.5 -28.5 v 17 17 h 27 27 v 23.50001 23.5 h -27 -27 v 38 38 h -32 -32 z m 247.5,102.36941 c -2.2,-0.2309 -8.84328,-1.3232 -14.76285,-2.4273 -47.88453,-8.9312 -75.42119,-36.7785 -80.781,-81.6921 -5.33572,-44.7118 25.85107,-84.5698 87.80142,-112.21381 17.49947,-7.80876 58.45252,-21.15945 60.0392,-19.57277 0.22434,0.22434 2.83353,12.24935 5.7982,26.72223 2.96467,14.47289 5.61573,27.28115 5.89124,28.46281 0.45642,1.95757 -0.0983,2.25048 -6.24264,3.29673 -11.27829,1.92041 -28.63113,6.74475 -39.23951,10.90915 -20.76041,8.14964 -35.08361,19.45812 -41.76387,32.97348 -3.53257,7.14702 -3.74019,8.09829 -3.74019,17.13718 0,8.8024 0.26434,10.1073 3.29514,16.2669 6.8991,14.0214 22.32687,21.4104 49.60843,23.7598 11.48608,0.9891 34.66485,0.137 42.84643,-1.5751 l 2.75,-0.5755 v 27.0604 27.0604 l -2.25,0.5348 c -9.85495,2.3423 -24.94739,3.7172 -43.75,3.9857 -11.825,0.1688 -23.3,0.118 -25.5,-0.113 z m 104.5,-104.86941 v -105.5 h 60 60 v 24.5 24.5 h -28.5 -28.5 v 15.5 15.5 h 24.5 24.5 v 24.5 24.50001 h -24.5 -24.5 v 15 15 h 29 29 v 26 26 h -60.5 -60.5 z"
+               d="m 67.288897,930.1973 -21.24585,-21.2458 34.15805,-34.1688 34.158063,-34.16884 -24.331323,-25.83533 c -13.38221,-14.20944 -27.64987,-29.24142 -31.70591,-33.4044 l -7.37461,-7.56905 24.46052,-23.70276 24.46051,-23.70275 11.336163,13.89034 c 6.23488,7.63969 18.69554,22.9495 27.69037,34.02181 8.99483,11.07231 16.71171,20.13147 17.14863,20.13147 0.43692,0 9.46583,-10.6875 20.06425,-23.75 26.60067,-32.78521 34.34915,-42.14349 34.94141,-42.2008 0.27969,-0.0271 10.36823,9.81815 22.41898,21.87824 l 21.91044,21.92744 -24.45342,25.32256 c -13.44938,13.92741 -27.56001,28.59621 -31.35696,32.59735 l -6.90355,7.27479 4.48316,4.72521 c 2.46573,2.59886 12.30776,13.05022 21.87118,23.22522 9.56341,10.175 22.13263,23.3347 27.9316,29.2438 l 10.54358,10.7438 -22.30939,22.39 -22.30939,22.39 -30.99252,-35.3838 c -17.04589,-19.4611 -31.36136,-35.3838 -31.81217,-35.3838 -0.4508,0 -14.16446,16.2 -30.47479,36 -16.31035,19.8 -29.971523,36 -30.358173,36 -0.38665,0 -10.26363,-9.5606 -21.94885,-21.2459 z m 216.751753,-83.75411 0,-104 60.5,0 60.5,0 0,25.5 0,25.5 -28.5,0 -28.5,0 0,17 0,17 27,0 27,0 0,23.50001 0,23.5 -27,0 -27,0 0,38 0,38 -32,0 -32,0 0,-104.00001 z m 247.5,102.36941 c -2.2,-0.2309 -8.84328,-1.3232 -14.76285,-2.4273 -47.88453,-8.9312 -75.42119,-36.7785 -80.781,-81.6921 -5.33572,-44.7118 25.85107,-84.5698 87.80142,-112.21381 17.49947,-7.80876 58.45252,-21.15945 60.0392,-19.57277 0.22434,0.22434 2.83353,12.24935 5.7982,26.72223 2.96467,14.47289 5.61573,27.28115 5.89124,28.46281 0.45642,1.95757 -0.0983,2.25048 -6.24264,3.29673 -11.27829,1.92041 -28.63113,6.74475 -39.23951,10.90915 -20.76041,8.14964 -35.08361,19.45812 -41.76387,32.97348 -3.53257,7.14702 -3.74019,8.09829 -3.74019,17.13718 0,8.8024 0.26434,10.1073 3.29514,16.2669 6.8991,14.0214 22.32687,21.4104 49.60843,23.7598 11.48608,0.9891 34.66485,0.137 42.84643,-1.5751 l 2.75,-0.5755 0,27.0604 0,27.0604 -2.25,0.5348 c -9.85495,2.3423 -24.94739,3.7172 -43.75,3.9857 -11.825,0.1688 -23.3,0.118 -25.5,-0.113 z m 104.5,-104.86941 0,-105.5 60,0 60,0 0,24.5 0,24.5 -28.5,0 -28.5,0 0,15.5 0,15.5 24.5,0 24.5,0 0,24.5 0,24.50001 -24.5,0 -24.5,0 0,15 0,15 29,0 29,0 0,26 0,26 -60.5,0 -60.5,0 0,-105.50001 z"
                id="path3699" />
             <path
                inkscape:connector-curvature="0"
                id="path2557"
-               d="m 59.248287,928.11629 -21.24585,-21.2458 34.15805,-34.1688 34.158053,-34.16884 -24.331313,-25.83533 c -13.38221,-14.20944 -27.64987,-29.24142 -31.70591,-33.4044 l -7.37461,-7.56905 24.46052,-23.70276 24.46051,-23.70275 11.336153,13.89034 c 6.23488,7.63969 18.69554,22.9495 27.69037,34.02181 8.99483,11.07231 16.71171,20.13147 17.14863,20.13147 0.43692,0 9.46583,-10.6875 20.06425,-23.75 26.60067,-32.78521 34.34915,-42.14349 34.94141,-42.2008 0.27969,-0.0271 10.36823,9.81815 22.41898,21.87824 l 21.91044,21.92744 -24.45342,25.32256 c -13.44938,13.92741 -27.56001,28.59621 -31.35696,32.59735 l -6.90355,7.27479 4.48316,4.72521 c 2.46573,2.59886 12.30776,13.05022 21.87118,23.22522 9.56341,10.175 22.13263,23.3347 27.9316,29.2438 l 10.54358,10.7438 -22.30939,22.39 -22.30939,22.39 -30.99252,-35.3838 c -17.04589,-19.4611 -31.36136,-35.3838 -31.81217,-35.3838 -0.4508,0 -14.16446,16.2 -30.47479,36 -16.310343,19.8 -29.971513,36 -30.358163,36 -0.38665,0 -10.26363,-9.5606 -21.94885,-21.2459 z M 276.00003,844.36218 v -104 h 60.5 60.5 v 25.5 25.5 h -28.5 -28.5 v 17 17 h 27 27 v 23.50001 23.5 h -27 -27 v 38 38 h -32 -32 z m 247.5,102.36941 c -2.2,-0.2309 -8.84328,-1.3232 -14.76285,-2.4273 -47.88453,-8.9312 -75.42119,-36.7785 -80.781,-81.6921 -5.33572,-44.7118 25.85107,-84.5698 87.80142,-112.21381 17.49947,-7.80876 58.45252,-21.15945 60.0392,-19.57277 0.22434,0.22434 2.83353,12.24935 5.7982,26.72223 2.96467,14.47289 5.61573,27.28115 5.89124,28.46281 0.45642,1.95757 -0.0983,2.25048 -6.24264,3.29673 -11.27829,1.92041 -28.63113,6.74475 -39.23951,10.90915 -20.76041,8.14964 -35.08361,19.45812 -41.76387,32.97348 -3.53257,7.14702 -3.74019,8.09829 -3.74019,17.13718 0,8.8024 0.26434,10.1073 3.29514,16.2669 6.8991,14.0214 22.32687,21.4104 49.60843,23.7598 11.48608,0.9891 34.66485,0.137 42.84643,-1.5751 l 2.75,-0.5755 v 27.0604 27.0604 l -2.25,0.5348 c -9.85495,2.3423 -24.94739,3.7172 -43.75,3.9857 -11.825,0.1688 -23.3,0.118 -25.5,-0.113 z m 104.5,-104.86941 v -105.5 h 60 60 v 24.5 24.5 h -28.5 -28.5 v 15.5 15.5 h 24.5 24.5 v 24.5 24.50001 h -24.5 -24.5 v 15 15 h 29 29 v 26 26 h -60.5 -60.5 z"
+               d="m 59.248287,928.11629 -21.24585,-21.2458 34.15805,-34.1688 34.158053,-34.16884 -24.331313,-25.83533 c -13.38221,-14.20944 -27.64987,-29.24142 -31.70591,-33.4044 l -7.37461,-7.56905 24.46052,-23.70276 24.46051,-23.70275 11.336153,13.89034 c 6.23488,7.63969 18.69554,22.9495 27.69037,34.02181 8.99483,11.07231 16.71171,20.13147 17.14863,20.13147 0.43692,0 9.46583,-10.6875 20.06425,-23.75 26.60067,-32.78521 34.34915,-42.14349 34.94141,-42.2008 0.27969,-0.0271 10.36823,9.81815 22.41898,21.87824 l 21.91044,21.92744 -24.45342,25.32256 c -13.44938,13.92741 -27.56001,28.59621 -31.35696,32.59735 l -6.90355,7.27479 4.48316,4.72521 c 2.46573,2.59886 12.30776,13.05022 21.87118,23.22522 9.56341,10.175 22.13263,23.3347 27.9316,29.2438 l 10.54358,10.7438 -22.30939,22.39 -22.30939,22.39 -30.99252,-35.3838 c -17.04589,-19.4611 -31.36136,-35.3838 -31.81217,-35.3838 -0.4508,0 -14.16446,16.2 -30.47479,36 -16.310343,19.8 -29.971513,36 -30.358163,36 -0.38665,0 -10.26363,-9.5606 -21.94885,-21.2459 z m 216.751743,-83.75411 0,-104 60.5,0 60.5,0 0,25.5 0,25.5 -28.5,0 -28.5,0 0,17 0,17 27,0 27,0 0,23.50001 0,23.5 -27,0 -27,0 0,38 0,38 -32,0 -32,0 0,-104.00001 z m 247.5,102.36941 c -2.2,-0.2309 -8.84328,-1.3232 -14.76285,-2.4273 -47.88453,-8.9312 -75.42119,-36.7785 -80.781,-81.6921 -5.33572,-44.7118 25.85107,-84.5698 87.80142,-112.21381 17.49947,-7.80876 58.45252,-21.15945 60.0392,-19.57277 0.22434,0.22434 2.83353,12.24935 5.7982,26.72223 2.96467,14.47289 5.61573,27.28115 5.89124,28.46281 0.45642,1.95757 -0.0983,2.25048 -6.24264,3.29673 -11.27829,1.92041 -28.63113,6.74475 -39.23951,10.90915 -20.76041,8.14964 -35.08361,19.45812 -41.76387,32.97348 -3.53257,7.14702 -3.74019,8.09829 -3.74019,17.13718 0,8.8024 0.26434,10.1073 3.29514,16.2669 6.8991,14.0214 22.32687,21.4104 49.60843,23.7598 11.48608,0.9891 34.66485,0.137 42.84643,-1.5751 l 2.75,-0.5755 0,27.0604 0,27.0604 -2.25,0.5348 c -9.85495,2.3423 -24.94739,3.7172 -43.75,3.9857 -11.825,0.1688 -23.3,0.118 -25.5,-0.113 z m 104.5,-104.86941 0,-105.5 60,0 60,0 0,24.5 0,24.5 -28.5,0 -28.5,0 0,15.5 0,15.5 24.5,0 24.5,0 0,24.5 0,24.50001 -24.5,0 -24.5,0 0,15 0,15 29,0 29,0 0,26 0,26 -60.5,0 -60.5,0 0,-105.50001 z"
                style="fill:#00aade;fill-opacity:1" />
             <path
                inkscape:connector-curvature="0"
@@ -1330,81 +1301,244 @@
                inkscape:connector-curvature="0"
                sodipodi:nodetypes="cccccccccccccccscccccccccccsssccccc"
                style="opacity:0.7;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;filter:url(#filter3843)"
-               d="m 35.625,378.15602 c -3.443355,1.88538 27.552632,22.09367 85.46875,45.9375 57.91987,23.84382 137.92965,84.27698 131.65625,94.03125 -18.81237,26.49691 -29.90817,58.18792 -22.25,112.46875 1.38111,9.55483 -28.31634,26.14558 -26.15625,40.5625 1.80637,10.9698 33.19295,-10.87512 36.625,-6.5625 2.0999,7.74098 -16.79186,46.91895 -9.15625,49.71875 5.58462,1.6596 54.67873,-46.58659 57.53125,-45.78125 80.96219,24.47603 186.3041,5.99395 188.34375,5.21875 -0.19196,-0.42524 75.80178,35.72642 82.40625,31.40625 16.65983,-18.04093 -31.57326,-43.46801 -23.53125,-53.625 3.52614,-5.31744 58.74796,19.9643 61.46875,13.0625 3.95898,-11.94824 -25.64187,-37.03634 -30.09375,-44.46875 -3.87242,-6.85285 -4.71239,-17.9194 5.21875,-24.84375 9.9349,-6.92434 111.50996,-45.77552 107.25,-75.84375 -7.36468,-54.63458 -128.82052,-58.18257 -130.78125,-62.78125 -0.92191,-2.1601 5.3446,-78.12685 -30.09375,-64.09375 -21.81925,8.12105 -4.00496,56.52301 -2.59375,62.78125 1.30204,5.7615 -9.70773,5.15389 -11.78125,2.625 -4.6287,-5.65237 -19.9116,-56.10291 -37.9375,-47.09375 -25.28137,13.939 -1.48853,57.43256 -6.53125,58.84375 -9.36668,5.23466 -8.83606,18.02087 -16.34375,28.4375 -12.38092,17.74363 -105.021,-8.31111 -134.96875,-10.125 -21.92462,-1.29455 -42.8956,16.69428 -44.875,14.40625 -26.69638,-26.73399 -81.9285,-73.2869 -142.4375,-88.75 C 88.129469,404.47863 37.649614,377.81734 35.625,378.15602 Z m 519.82589,89.36161 c 5.78951,-10e-6 20.11161,18.20293 20.11161,24.79464 2e-5,6.59167 -7.53638,33.36607 -13.32589,33.36607 -5.78954,0 -51.92857,-22.48869 -51.92857,-29.08036 10e-6,-6.59171 39.35331,-29.08035 45.14285,-29.08035 z M 594,523.26316 c -7.84165,-13.17309 16.20938,35.64609 18.18304,31.52679 -56.67741,35.22193 -103.54645,11.97043 -103.91518,9.15178 -0.57648,-2.01216 75.22522,-41.07678 85.73214,-40.67857 z"
+               d="m 35.625,378.15602 c -3.443355,1.88538 27.552632,22.09367 85.46875,45.9375 57.91987,23.84382 137.92965,84.27698 131.65625,94.03125 -18.81237,26.49691 -29.90817,58.18792 -22.25,112.46875 1.38111,9.55483 -28.31634,26.14558 -26.15625,40.5625 1.80637,10.9698 33.19295,-10.87512 36.625,-6.5625 2.0999,7.74098 -16.79186,46.91895 -9.15625,49.71875 5.58462,1.6596 54.67873,-46.58659 57.53125,-45.78125 80.96219,24.47603 186.3041,5.99395 188.34375,5.21875 -0.19196,-0.42524 75.80178,35.72642 82.40625,31.40625 16.65983,-18.04093 -31.57326,-43.46801 -23.53125,-53.625 3.52614,-5.31744 58.74796,19.9643 61.46875,13.0625 3.95898,-11.94824 -25.64187,-37.03634 -30.09375,-44.46875 -3.87242,-6.85285 -4.71239,-17.9194 5.21875,-24.84375 9.9349,-6.92434 111.50996,-45.77552 107.25,-75.84375 -7.36468,-54.63458 -128.82052,-58.18257 -130.78125,-62.78125 -0.92191,-2.1601 5.3446,-78.12685 -30.09375,-64.09375 -21.81925,8.12105 -4.00496,56.52301 -2.59375,62.78125 1.30204,5.7615 -9.70773,5.15389 -11.78125,2.625 -4.6287,-5.65237 -19.9116,-56.10291 -37.9375,-47.09375 -25.28137,13.939 -1.48853,57.43256 -6.53125,58.84375 -9.36668,5.23466 -8.83606,18.02087 -16.34375,28.4375 -12.38092,17.74363 -105.021,-8.31111 -134.96875,-10.125 -21.92462,-1.29455 -42.8956,16.69428 -44.875,14.40625 -26.69638,-26.73399 -81.9285,-73.2869 -142.4375,-88.75 C 88.129469,404.47863 37.649614,377.81734 35.625,378.15602 z m 519.82589,89.36161 c 5.78951,-10e-6 20.11161,18.20293 20.11161,24.79464 2e-5,6.59167 -7.53638,33.36607 -13.32589,33.36607 -5.78954,0 -51.92857,-22.48869 -51.92857,-29.08036 10e-6,-6.59171 39.35331,-29.08035 45.14285,-29.08035 z M 594,523.26316 c -7.84165,-13.17309 16.20938,35.64609 18.18304,31.52679 -56.67741,35.22193 -103.54645,11.97043 -103.91518,9.15178 -0.57648,-2.01216 75.22522,-41.07678 85.73214,-40.67857 z"
                id="path3840" />
             <path
                inkscape:connector-curvature="0"
                id="path14"
-               d="m 27.625,372.15602 c -3.443355,1.88538 27.552632,22.09367 85.46875,45.9375 57.91987,23.84382 137.92965,84.27698 131.65625,94.03125 -18.81237,26.49691 -29.90817,58.18792 -22.25,112.46875 1.38111,9.55483 -28.31634,26.14558 -26.15625,40.5625 1.80637,10.9698 33.19295,-10.87512 36.625,-6.5625 2.0999,7.74098 -16.79186,46.91895 -9.15625,49.71875 5.58462,1.6596 54.67873,-46.58659 57.53125,-45.78125 80.96219,24.47603 186.3041,5.99395 188.34375,5.21875 -0.19196,-0.42524 75.80178,35.72642 82.40625,31.40625 16.65983,-18.04093 -31.57326,-43.46801 -23.53125,-53.625 3.52614,-5.31744 58.74796,19.9643 61.46875,13.0625 3.95898,-11.94824 -25.64187,-37.03634 -30.09375,-44.46875 -3.87242,-6.85285 -4.71239,-17.9194 5.21875,-24.84375 9.9349,-6.92434 111.50996,-45.77552 107.25,-75.84375 -7.36468,-54.63458 -128.82052,-58.18257 -130.78125,-62.78125 -0.92191,-2.1601 5.3446,-78.12685 -30.09375,-64.09375 -21.81925,8.12105 -4.00496,56.52301 -2.59375,62.78125 1.30204,5.7615 -9.70773,5.15389 -11.78125,2.625 -4.6287,-5.65237 -19.9116,-56.10291 -37.9375,-47.09375 -25.28137,13.939 -1.48853,57.43256 -6.53125,58.84375 -9.36668,5.23466 -8.83606,18.02087 -16.34375,28.4375 -12.38092,17.74363 -105.021,-8.31111 -134.96875,-10.125 -21.92462,-1.29455 -42.8956,16.69428 -44.875,14.40625 -26.69638,-26.73399 -81.9285,-73.2869 -142.4375,-88.75 C 80.129469,398.47863 29.649614,371.81734 27.625,372.15602 Z m 529.46875,102.21875 c 5.78951,-1e-5 10.46875,5.34579 10.46875,11.9375 2e-5,6.59167 -4.67924,11.9375 -10.46875,11.9375 -5.78954,0 -10.5,-5.34583 -10.5,-11.9375 10e-6,-6.59171 4.71046,-11.9375 10.5,-11.9375 z m -23.53125,7.25 c 4.45553,19.23387 11.41036,25.36339 32.28125,24.75 -26.56462,24.35939 -42.70923,-17.37781 -32.28125,-24.75 z M 591,531.90602 c 1.08692,0.0412 1.92367,0.28894 2.46875,0.8125 10.46545,3.79336 -44.97502,23.75615 -45.34375,20.9375 -0.57648,-2.01216 32.36808,-22.14821 42.875,-21.75 z m 5.625,12.78125 c 0.57282,-0.0444 1.07711,0.032 1.5,0.25 9.87845,9.8145 -31.27532,31.57642 -30.8125,30.8125 -3.31635,-2.00393 20.72016,-30.39586 29.3125,-31.0625 z"
+               d="m 27.625,372.15602 c -3.443355,1.88538 27.552632,22.09367 85.46875,45.9375 57.91987,23.84382 137.92965,84.27698 131.65625,94.03125 -18.81237,26.49691 -29.90817,58.18792 -22.25,112.46875 1.38111,9.55483 -28.31634,26.14558 -26.15625,40.5625 1.80637,10.9698 33.19295,-10.87512 36.625,-6.5625 2.0999,7.74098 -16.79186,46.91895 -9.15625,49.71875 5.58462,1.6596 54.67873,-46.58659 57.53125,-45.78125 80.96219,24.47603 186.3041,5.99395 188.34375,5.21875 -0.19196,-0.42524 75.80178,35.72642 82.40625,31.40625 16.65983,-18.04093 -31.57326,-43.46801 -23.53125,-53.625 3.52614,-5.31744 58.74796,19.9643 61.46875,13.0625 3.95898,-11.94824 -25.64187,-37.03634 -30.09375,-44.46875 -3.87242,-6.85285 -4.71239,-17.9194 5.21875,-24.84375 9.9349,-6.92434 111.50996,-45.77552 107.25,-75.84375 -7.36468,-54.63458 -128.82052,-58.18257 -130.78125,-62.78125 -0.92191,-2.1601 5.3446,-78.12685 -30.09375,-64.09375 -21.81925,8.12105 -4.00496,56.52301 -2.59375,62.78125 1.30204,5.7615 -9.70773,5.15389 -11.78125,2.625 -4.6287,-5.65237 -19.9116,-56.10291 -37.9375,-47.09375 -25.28137,13.939 -1.48853,57.43256 -6.53125,58.84375 -9.36668,5.23466 -8.83606,18.02087 -16.34375,28.4375 -12.38092,17.74363 -105.021,-8.31111 -134.96875,-10.125 -21.92462,-1.29455 -42.8956,16.69428 -44.875,14.40625 -26.69638,-26.73399 -81.9285,-73.2869 -142.4375,-88.75 C 80.129469,398.47863 29.649614,371.81734 27.625,372.15602 z m 529.46875,102.21875 c 5.78951,-1e-5 10.46875,5.34579 10.46875,11.9375 2e-5,6.59167 -4.67924,11.9375 -10.46875,11.9375 -5.78954,0 -10.5,-5.34583 -10.5,-11.9375 10e-6,-6.59171 4.71046,-11.9375 10.5,-11.9375 z m -23.53125,7.25 c 4.45553,19.23387 11.41036,25.36339 32.28125,24.75 -26.56462,24.35939 -42.70923,-17.37781 -32.28125,-24.75 z M 591,531.90602 c 1.08692,0.0412 1.92367,0.28894 2.46875,0.8125 10.46545,3.79336 -44.97502,23.75615 -45.34375,20.9375 -0.57648,-2.01216 32.36808,-22.14821 42.875,-21.75 z m 5.625,12.78125 c 0.57282,-0.0444 1.07711,0.032 1.5,0.25 9.87845,9.8145 -31.27532,31.57642 -30.8125,30.8125 -3.31635,-2.00393 20.72016,-30.39586 29.3125,-31.0625 z"
                style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
             <path
                inkscape:connector-curvature="0"
                id="path3939"
-               d="m 37.522095,378.6527 0.84375,0.53125 0.5625,0.34375 c 29.147975,18.33454 61.611615,30.40782 92.749995,44.8125 36.3438,18.52001 71.20592,40.96478 101.625,68 5.20035,5.60699 13.14646,10.97881 13.75,19.21875 -6.22153,10.34457 -13.1176,20.62779 -17.03125,32.125 -9.88843,26.114 -8.98991,55.26021 -5.53125,82.53125 -0.32933,1.09179 -0.74094,2.12219 -1.21875,3.125 39.10369,-61.64359 122.40981,-129.1875 279.75,-129.1875 9.33578,0 18.54905,0.25737 27.65625,0.75 -2.33381,-5.47359 -2.99261,-11.6297 -1.1875,-17.21875 0.93372,-2.49627 3.19164,-3.99485 5.28125,-5.46875 0.23958,0.96874 0.47917,1.9375 0.71875,2.90625 1.46916,8.14342 5.3167,17.58709 13.09375,21.09375 6.54777,0.59055 13.01471,1.28862 19.40625,2.125 1.0521,-0.0229 2.10943,-0.0531 3.15625,-0.0625 -0.14059,0.14674 -0.29396,0.29064 -0.4375,0.4375 34.12914,4.66638 65.85867,12.78917 93.96875,23.65625 4.71028,-5.79887 7.7424,-13.09484 4.5,-20.3125 -6.70724,-19.96353 -26.96063,-29.84332 -45.375,-36.84375 -26.03696,-9.70075 -53.87061,-12.75578 -81.0625,-17.78125 -5.83004,-1.2816 -2.13873,-9.14486 -3.21875,-13.09375 -0.58747,-16.33515 -0.20887,-34.31633 -9.65625,-48.28125 -7.11446,-9.93506 -24.85034,-4.6182 -26.21875,7.34375 -3.35957,17.39587 3.60176,34.52655 7.375,51.1875 -1.19619,6.66552 -11.50186,6.57067 -15.5,2.53125 -8.71808,-15.11037 -12.74739,-34.20065 -26.875,-45.625 -7.12793,-5.13924 -15.2453,2.94407 -17.5625,9.59375 -5.11726,15.15434 2.32427,30.40139 4.3125,45.34375 -0.36812,4.09846 -5.97933,4.3628 -7.03125,8.375 -5.1929,8.82655 -5.78453,22.06702 -16.125,26.84375 -16.45833,5.33564 -34.35296,1.58591 -51.125,-0.34375 -27.40853,-3.63884 -54.35043,-11.11488 -81.875,-13.34375 -15.18475,-0.28418 -28.12661,8.75625 -41.4375,14.59375 -4.85269,0.005 -7.05548,-6.53833 -10.9375,-8.65625 C 207.01797,452.81662 160.32392,420.79119 106.89709,407.68395 82.986817,399.97441 60.25554,389.25242 37.522095,378.6527 Z m 518.906245,93.71875 c 11.37337,-0.60825 16.93924,14.60667 10.3125,22.78125 -4.88285,7.65321 -17.4112,6.16037 -20.65625,-2.25 -4.20197,-7.9951 0.62965,-19.93219 10.34375,-20.53125 z"
+               d="m 37.522095,378.6527 0.84375,0.53125 0.5625,0.34375 c 29.147975,18.33454 61.611615,30.40782 92.749995,44.8125 36.3438,18.52001 71.20592,40.96478 101.625,68 5.20035,5.60699 13.14646,10.97881 13.75,19.21875 -6.22153,10.34457 -13.1176,20.62779 -17.03125,32.125 -9.88843,26.114 -8.98991,55.26021 -5.53125,82.53125 -0.32933,1.09179 -0.74094,2.12219 -1.21875,3.125 39.10369,-61.64359 122.40981,-129.1875 279.75,-129.1875 9.33578,0 18.54905,0.25737 27.65625,0.75 -2.33381,-5.47359 -2.99261,-11.6297 -1.1875,-17.21875 0.93372,-2.49627 3.19164,-3.99485 5.28125,-5.46875 0.23958,0.96874 0.47917,1.9375 0.71875,2.90625 1.46916,8.14342 5.3167,17.58709 13.09375,21.09375 6.54777,0.59055 13.01471,1.28862 19.40625,2.125 1.0521,-0.0229 2.10943,-0.0531 3.15625,-0.0625 -0.14059,0.14674 -0.29396,0.29064 -0.4375,0.4375 34.12914,4.66638 65.85867,12.78917 93.96875,23.65625 4.71028,-5.79887 7.7424,-13.09484 4.5,-20.3125 -6.70724,-19.96353 -26.96063,-29.84332 -45.375,-36.84375 -26.03696,-9.70075 -53.87061,-12.75578 -81.0625,-17.78125 -5.83004,-1.2816 -2.13873,-9.14486 -3.21875,-13.09375 -0.58747,-16.33515 -0.20887,-34.31633 -9.65625,-48.28125 -7.11446,-9.93506 -24.85034,-4.6182 -26.21875,7.34375 -3.35957,17.39587 3.60176,34.52655 7.375,51.1875 -1.19619,6.66552 -11.50186,6.57067 -15.5,2.53125 -8.71808,-15.11037 -12.74739,-34.20065 -26.875,-45.625 -7.12793,-5.13924 -15.2453,2.94407 -17.5625,9.59375 -5.11726,15.15434 2.32427,30.40139 4.3125,45.34375 -0.36812,4.09846 -5.97933,4.3628 -7.03125,8.375 -5.1929,8.82655 -5.78453,22.06702 -16.125,26.84375 -16.45833,5.33564 -34.35296,1.58591 -51.125,-0.34375 -27.40853,-3.63884 -54.35043,-11.11488 -81.875,-13.34375 -15.18475,-0.28418 -28.12661,8.75625 -41.4375,14.59375 -4.85269,0.005 -7.05548,-6.53833 -10.9375,-8.65625 C 207.01797,452.81662 160.32392,420.79119 106.89709,407.68395 82.986817,399.97441 60.25554,389.25242 37.522095,378.6527 z m 518.906245,93.71875 c 11.37337,-0.60825 16.93924,14.60667 10.3125,22.78125 -4.88285,7.65321 -17.4112,6.16037 -20.65625,-2.25 -4.20197,-7.9951 0.62965,-19.93219 10.34375,-20.53125 z"
                style="opacity:0.8;fill:url(#linearGradient3421);fill-opacity:1;fill-rule:evenodd;stroke:none;filter:url(#filter3984)" />
           </g>
         </g>
         <g
            inkscape:groupmode="layer"
            id="layer15"
-           inkscape:label="Mouse_Gloss"
-           style="display:inline" />
+           inkscape:label="Mouse_Gloss" />
       </g>
     </g>
   </g>
   <g
      id="g3760"
-     transform="translate(0,-1.6593933e-4)" />
+     transform="translate(0,-1.6593933e-4)">
+    <rect
+       id="rect3305-2-0"
+       style="fill:#eeeeee;fill-opacity:1;stroke:#cccccc;stroke-width:8.46735001;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       y="618.3396"
+       x="1647.3033"
+       ry="31.137993"
+       rx="46.317905"
+       height="867.78174"
+       width="1115.9934" />
+    <rect
+       id="rect3305-2-0-9"
+       style="fill:#eeeeee;fill-opacity:1;stroke:#cccccc;stroke-width:8.47848129;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       y="618.3396"
+       x="208.15591"
+       ry="31.219917"
+       rx="46.317905"
+       height="870.06488"
+       width="1115.9934" />
+    <flowRoot
+       transform="translate(1236.2171,-190.69732)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#154374;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot3488"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3490"><rect
+           style="fill:#154374;fill-opacity:1"
+           y="1020.571"
+           x="-836.80768"
+           height="738.48273"
+           width="997.89313"
+           id="rect3492" /></flowRegion><flowPara
+         style="font-size:56px;fill:#154374;fill-opacity:1"
+         id="flowPara3494">Text editor Mousepad</flowPara><flowPara
+         style="font-size:56px;fill:#154374;fill-opacity:1"
+         id="flowPara3496">Web browser Midori</flowPara><flowPara
+         style="font-size:56px;fill:#154374;fill-opacity:1"
+         id="flowPara3498">Terminal</flowPara><flowPara
+         style="font-size:56px;fill:#154374;fill-opacity:1"
+         id="flowPara3500">Volume control Mixer</flowPara><flowPara
+         style="font-size:56px;fill:#154374;fill-opacity:1"
+         id="flowPara3502">Media player Parole</flowPara><flowPara
+         style="font-size:56px;fill:#154374;fill-opacity:1"
+         id="flowPara3504">Image viewer Ristretto</flowPara><flowPara
+         style="font-size:56px;fill:#154374;fill-opacity:1"
+         id="flowPara3506">Burn media with Xfburn</flowPara><flowPara
+         style="font-size:56px;fill:#154374;fill-opacity:1"
+         id="flowPara3508">Calender Orage</flowPara><flowPara
+         style="font-size:56px;fill:#154374;fill-opacity:1"
+         id="flowPara3510">Archive manager Squeeze</flowPara></flowRoot>    <text
+       transform="scale(1.035455,0.96575901)"
+       x="427.6434"
+       y="796.57654"
+       style="font-size:59.4103775px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       id="text3307"
+       xml:space="preserve"><tspan
+         x="427.6434"
+         y="796.57654"
+         style="font-size:90px;font-weight:bold;fill:#154374;fill-opacity:1"
+         id="tspan3309">Applications</tspan></text>
+    <text
+       x="1672.879"
+       y="796.63593"
+       style="font-size:60.02856064px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       id="text3251-1"
+       xml:space="preserve"
+       transform="scale(1.0390402,0.96242667)"><tspan
+         x="1672.879"
+         y="796.63593"
+         style="font-size:90px;font-weight:bold;fill:#154374;fill-opacity:1"
+         id="tspan3253-03">Core Components</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3602"
+       y="884.98853"
+       x="1953.5461"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#154374;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#154374;fill-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+         y="884.98853"
+         x="1953.5461"
+         id="tspan3604"
+         sodipodi:role="line">Panel</tspan><tspan
+         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#154374;fill-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+         id="tspan3606"
+         y="954.98853"
+         x="1953.5461"
+         sodipodi:role="line">Window Manager</tspan><tspan
+         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#154374;fill-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+         id="tspan3608"
+         y="1024.9885"
+         x="1953.5461"
+         sodipodi:role="line">Desktop Manager</tspan><tspan
+         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#154374;fill-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+         id="tspan3610"
+         y="1094.9885"
+         x="1953.5461"
+         sodipodi:role="line">Power Manager</tspan><tspan
+         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#154374;fill-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+         id="tspan3612"
+         y="1164.9885"
+         x="1953.5461"
+         sodipodi:role="line">Session Manager</tspan><tspan
+         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#154374;fill-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+         id="tspan3614"
+         y="1234.9885"
+         x="1953.5461"
+         sodipodi:role="line">Settings Manager</tspan><tspan
+         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#154374;fill-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+         id="tspan3616"
+         y="1304.9885"
+         x="1953.5461"
+         sodipodi:role="line">File Manager</tspan><tspan
+         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#154374;fill-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+         id="tspan3618"
+         y="1374.9885"
+         x="1953.5461"
+         sodipodi:role="line">Application Finder</tspan></text>
+  </g>
   <flowRoot
      xml:space="preserve"
      id="flowRoot3668"
-     style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
-       id="flowRegion3670"
-       style="font-family:sans-serif"><rect
+     style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+       id="flowRegion3670"><rect
          id="rect3672"
          width="2123.3994"
          height="259.41037"
          x="474.88834"
-         y="3708.8157"
-         style="font-family:sans-serif" /></flowRegion><flowPara
-       id="flowPara3674"
-       style="font-size:40px;line-height:1.25;font-family:sans-serif"> </flowPara></flowRoot>  <flowRoot
+         y="3708.8157" /></flowRegion><flowPara
+       id="flowPara3674"></flowPara></flowRoot>  <flowRoot
      xml:space="preserve"
      id="flowRoot3676"
-     style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
-       id="flowRegion3678"
-       style="font-family:sans-serif"><rect
+     style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+       id="flowRegion3678"><rect
          id="rect3680"
          width="2508.3311"
          height="535.55682"
          x="230.1221"
-         y="3459.8652"
-         style="font-family:sans-serif" /></flowRegion><flowPara
-       id="flowPara3682"
-       style="font-size:40px;line-height:1.25;font-family:sans-serif"> </flowPara></flowRoot>  <flowRoot
+         y="3459.8652" /></flowRegion><flowPara
+       id="flowPara3682"></flowPara></flowRoot>  <flowRoot
      xml:space="preserve"
      id="flowRoot3684"
-     style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
-       id="flowRegion3686"
-       style="font-family:sans-serif"><rect
+     style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+       id="flowRegion3686"><rect
          id="rect3688"
          width="2516.699"
          height="548.10901"
          x="232.21413"
-         y="3447.3132"
-         style="font-family:sans-serif" /></flowRegion><flowPara
-       id="flowPara3690"
-       style="font-size:40px;line-height:1.25;font-family:sans-serif"> </flowPara></flowRoot>  <flowRoot
+         y="3447.3132" /></flowRegion><flowPara
+       id="flowPara3690"></flowPara></flowRoot>  <flowRoot
      xml:space="preserve"
      id="flowRoot3923"
-     style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
-       id="flowRegion3925"
-       style="font-family:sans-serif"><rect
+     style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+       id="flowRegion3925"><rect
          id="rect3927"
          width="171.54556"
          height="104.60096"
          x="602.50153"
-         y="3706.7236"
-         style="font-family:sans-serif" /></flowRegion><flowPara
-       id="flowPara3929"
-       style="font-size:40px;line-height:1.25;font-family:sans-serif"> </flowPara></flowRoot></svg>
+         y="3706.7236" /></flowRegion><flowPara
+       id="flowPara3929"></flowPara></flowRoot>  <g
+     id="g3999"
+     transform="translate(0,4.2915344e-6)">
+    <rect
+       id="rect3305-2-0-7"
+       style="fill:#eeeeee;fill-opacity:1;stroke:#cccccc;stroke-width:12.08495235;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       y="3246.2837"
+       x="208.15617"
+       ry="27.703356"
+       rx="106.0479"
+       height="772.06213"
+       width="2555.1406" />
+    <flowRoot
+       transform="translate(-179.59967,-428.27716)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#154374;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot3948"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3950"><rect
+           style="fill:#154374;fill-opacity:1"
+           y="3836.4287"
+           x="456.06018"
+           height="629.18958"
+           width="2668.1184"
+           id="rect3952" /></flowRegion><flowPara
+         style="font-size:56px;fill:#154374;fill-opacity:1"
+         id="flowPara3954">Many Panel plugins (for resources, clipboard management, launchers, ...)</flowPara><flowPara
+         style="font-size:56px;fill:#154374;fill-opacity:1"
+         id="flowPara3956">Many File Manager plugins (customisable &quot;Send to&quot;, rename, media tags, archives, ...)</flowPara><flowPara
+         style="font-size:56px;fill:#154374;fill-opacity:1"
+         id="flowPara3958">Manage remote filesystems (SFTP, FTP, WebDAV, Windows shares, Archives)</flowPara><flowPara
+         style="font-size:56px;fill:#154374;fill-opacity:1"
+         id="flowPara3960">Download Manager</flowPara><flowPara
+         style="font-size:56px;fill:#154374;fill-opacity:1"
+         id="flowPara3970">Task Manager</flowPara><flowPara
+         style="font-size:56px;fill:#154374;fill-opacity:1"
+         id="flowPara3972">Screenshoot application</flowPara><flowPara
+         style="font-size:56px;fill:#154374;fill-opacity:1"
+         id="flowPara3974">Dictionary</flowPara><flowPara
+         style="font-size:56px;fill:#154374;fill-opacity:1"
+         id="flowPara3976">Various MPC clients</flowPara><flowPara
+         style="font-size:56px;fill:#154374;fill-opacity:1"
+         id="flowPara3962" /><flowPara
+         style="font-size:56px;fill:#154374;fill-opacity:1"
+         id="flowPara3964" /><flowPara
+         style="font-size:56px;fill:#154374;fill-opacity:1"
+         id="flowPara3966" /><flowPara
+         style="font-size:56px;fill:#154374;fill-opacity:1"
+         id="flowPara3968" /></flowRoot>    <text
+       x="1225.9966"
+       y="3496.9412"
+       style="font-size:60.02856064px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       id="text3251-8-5"
+       xml:space="preserve"
+       transform="scale(1.0390402,0.96242667)"><tspan
+         x="1225.9966"
+         y="3496.9412"
+         style="font-size:90px;font-weight:bold;fill:#154374;fill-opacity:1"
+         id="tspan3253-0-4">Goodies</tspan></text>
+  </g>
+</svg>
