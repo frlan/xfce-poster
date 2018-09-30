@@ -18,7 +18,8 @@
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="xfce_poster_en.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   viewBox="0 0 2979.9211 4212.9922">
+   viewBox="0 0 2979.9211 4212.9922"
+   enable-background="new">
   <metadata
      id="metadata179">
     <rdf:RDF>
@@ -43,19 +44,19 @@
      bordercolor="#666666"
      pagecolor="#ffffff"
      id="base"
-     inkscape:zoom="0.31538069"
-     inkscape:cx="2642.8446"
-     inkscape:cy="2966.0478"
+     inkscape:zoom="0.14239703"
+     inkscape:cx="2220.4323"
+     inkscape:cy="1754.5223"
      inkscape:window-x="0"
      inkscape:window-y="25"
-     inkscape:current-layer="g3760"
+     inkscape:current-layer="layer11"
      showgrid="false"
      inkscape:window-maximized="1"
      inkscape:snap-global="true"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
-     inkscape:measure-start="1761.15,3348.54"
-     inkscape:measure-end="1961.81,3349.66">
+     inkscape:measure-start="222.033,3460.4"
+     inkscape:measure-end="419.602,3460.4">
     <sodipodi:guide
        orientation="1,0"
        position="2763.2968,3647.9068"
@@ -86,6 +87,9 @@
        position="1271.9476,2727.993"
        id="guide3758"
        inkscape:locked="false" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid1159" />
   </sodipodi:namedview>
   <defs
      id="defs4">
@@ -909,7 +913,231 @@
   <g
      inkscape:groupmode="layer"
      id="layer9"
-     inkscape:label="Ebene" />
+     inkscape:label="Text Containers"
+     style="display:inline">
+    <g
+       id="g1064"
+       transform="translate(-4.3066446e-6,1.8207211e-4)">
+      <rect
+         width="1115.9934"
+         height="870.06488"
+         rx="46.317905"
+         ry="31.219917"
+         x="208.15591"
+         y="618.3396"
+         style="fill:#eeeeee;fill-opacity:1;stroke:#cccccc;stroke-width:8.47848129;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect3305-2-0-9"
+         transform="translate(0,-1.6593933e-4)" />
+    </g>
+    <g
+       id="g3999"
+       transform="translate(0,4.2915344e-6)">
+      <rect
+         id="rect3305-2-0-7"
+         style="fill:#eeeeee;fill-opacity:1;stroke:#cccccc;stroke-width:12.08495235;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="3246.2837"
+         x="208.15617"
+         ry="27.703356"
+         rx="106.0479"
+         height="772.06213"
+         width="2555.1406" />
+    </g>
+    <rect
+       transform="translate(0,-1.6593933e-4)"
+       id="rect3305-2-0"
+       style="fill:#eeeeee;fill-opacity:1;stroke:#cccccc;stroke-width:8.46735001;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="618.3396"
+       x="1647.3033"
+       ry="31.137993"
+       rx="46.317905"
+       height="867.78174"
+       width="1115.9934" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer11"
+     inkscape:label="Text"
+     style="display:inline">
+    <g
+       id="g1141" />
+    <text
+       transform="translate(0,-1.6593933e-4)"
+       id="text3602"
+       y="884.98853"
+       x="1834.2816"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#154374;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1"
+         y="884.98853"
+         x="1834.2816"
+         id="tspan3604"
+         sodipodi:role="line">Panel</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1"
+         id="tspan3606"
+         y="954.98853"
+         x="1834.2816"
+         sodipodi:role="line">Window Manager</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1"
+         id="tspan3608"
+         y="1024.9885"
+         x="1834.2816"
+         sodipodi:role="line">Desktop Manager</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1"
+         id="tspan3610"
+         y="1094.9885"
+         x="1834.2816"
+         sodipodi:role="line">Power Manager</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1"
+         id="tspan3612"
+         y="1164.9885"
+         x="1834.2816"
+         sodipodi:role="line">Session Manager</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1"
+         id="tspan3614"
+         y="1234.9885"
+         x="1834.2816"
+         sodipodi:role="line">Settings Manager</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1"
+         id="tspan3616"
+         y="1304.9885"
+         x="1834.2816"
+         sodipodi:role="line">File Manager</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1"
+         id="tspan3618"
+         y="1374.9885"
+         x="1834.2816"
+         sodipodi:role="line">Application Finder</tspan></text>
+    <text
+       transform="matrix(1.035455,0,0,0.96575905,0,-1.6593933e-4)"
+       x="427.6434"
+       y="796.57654"
+       style="font-style:normal;font-weight:normal;font-size:59.4103775px;line-height:0%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none"
+       id="text3307"
+       xml:space="preserve"><tspan
+         x="427.6434"
+         y="796.57654"
+         style="font-weight:bold;font-size:90px;fill:#154374;fill-opacity:1"
+         id="tspan3309">Applications</tspan></text>
+    <text
+       x="1672.879"
+       y="796.63593"
+       style="font-style:normal;font-weight:normal;font-size:60.02856064px;line-height:0%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none"
+       id="text3251-1"
+       xml:space="preserve"
+       transform="matrix(1.0390402,0,0,0.96242671,0,-1.6593933e-4)"><tspan
+         x="1672.879"
+         y="796.63593"
+         style="font-weight:bold;font-size:90px;fill:#154374;fill-opacity:1"
+         id="tspan3253-03">Core Components</tspan></text>
+    <text
+       x="1225.9966"
+       y="3496.9412"
+       style="font-style:normal;font-weight:normal;font-size:60.02856064px;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       id="text3251-8-5"
+       xml:space="preserve"
+       transform="matrix(1.0390402,0,0,0.96242671,0,4.2915344e-6)"><tspan
+         x="1225.9966"
+         y="3496.9412"
+         style="font-weight:bold;font-size:90px;fill:#154374;fill-opacity:1"
+         id="tspan3253-0-4">Goodies</tspan></text>
+    <text
+       id="text3602-3"
+       y="880.87054"
+       x="386.86548"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#154374;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1;stroke-width:1"
+         id="tspan3618-9"
+         y="880.87054"
+         x="386.86548"
+         sodipodi:role="line">Text editor Mousepad</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1;stroke-width:1"
+         y="950.87054"
+         x="386.86548"
+         sodipodi:role="line"
+         id="tspan1140">Web browser Midori</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1;stroke-width:1"
+         y="1020.8705"
+         x="386.86548"
+         sodipodi:role="line"
+         id="tspan1142">Terminal</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1;stroke-width:1"
+         y="1090.8706"
+         x="386.86548"
+         sodipodi:role="line"
+         id="tspan1144">Volume control Mixer</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1;stroke-width:1"
+         y="1160.8706"
+         x="386.86548"
+         sodipodi:role="line"
+         id="tspan1146">Media player Parole</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1;stroke-width:1"
+         y="1230.8706"
+         x="386.86548"
+         sodipodi:role="line"
+         id="tspan1148">Image viewer Ristretto</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1;stroke-width:1"
+         y="1300.8706"
+         x="386.86548"
+         sodipodi:role="line"
+         id="tspan1150">Burn media with Xfburn</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1;stroke-width:1"
+         y="1370.8706"
+         x="386.86548"
+         sodipodi:role="line"
+         id="tspan1152">Calendar Orage</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1;stroke-width:1"
+         y="1440.8706"
+         x="386.86548"
+         sodipodi:role="line"
+         id="tspan1154">Archive manager Squeeze</tspan></text>
+    <text
+       id="text3602-3-1"
+       y="3469.1975"
+       x="370.5856"
+       style="font-style:normal;font-weight:normal;font-size:11.90904427px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#154374;fill-opacity:1;stroke:none;stroke-width:0.99242038"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:55.57553864px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1;stroke-width:0.99242038"
+         y="3469.1975"
+         x="370.5856"
+         sodipodi:role="line"
+         id="tspan1154-2">Panel plugins (for resources, clipboard management, launchers, ...)</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:55.57553864px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1;stroke-width:0.99242038"
+         y="3538.667"
+         x="370.5856"
+         sodipodi:role="line"
+         id="tspan1242">File Manager plugins (customisable &quot;Send to&quot;, rename, media tags, archives, ...)</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:55.57553864px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1;stroke-width:0.99242038"
+         y="3608.1365"
+         x="370.5856"
+         sodipodi:role="line"
+         id="tspan1244">Manage remote filesystems (SFTP, FTP, WebDAV, Windows shares, Archives)</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:55.57553864px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1;stroke-width:0.99242038"
+         y="3677.6057"
+         x="370.5856"
+         sodipodi:role="line"
+         id="tspan1246">Download Manager</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:55.57553864px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1;stroke-width:0.99242038"
+         y="3747.0752"
+         x="370.5856"
+         sodipodi:role="line"
+         id="tspan1248">Task Manager</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:55.57553864px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1;stroke-width:0.99242038"
+         y="3816.5447"
+         x="370.5856"
+         sodipodi:role="line"
+         id="tspan1250">Screenshoot application</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:55.57553864px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1;stroke-width:0.99242038"
+         y="3886.0142"
+         x="370.5856"
+         sodipodi:role="line"
+         id="tspan1252">Dictionary</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:55.57553864px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1;stroke-width:0.99242038"
+         y="3955.4834"
+         x="370.5856"
+         sodipodi:role="line"
+         id="tspan1254">Various MPD clients</tspan></text>
+  </g>
   <text
      xml:space="preserve"
      id="text4489"
@@ -942,7 +1170,8 @@
        id="flowPara3304"
        style="font-size:40px;line-height:1.25;font-family:sans-serif"> </flowPara></flowRoot>  <g
      id="g3374"
-     transform="translate(1.9851398,-15.945684)">
+     transform="translate(1.9851398,-15.945684)"
+     style="display:inline">
     <path
        d="M 2947.1559,174.58949 V 575.90917 L 29.205519,575.54404 28.794963,174.58949 c 0,-87.888664 70.755142,-158.643806 158.643817,-158.643806 H 2788.5121 c 87.8887,0 158.6438,70.755142 158.6438,158.643806 z"
        style="fill:#03689a;fill-opacity:1;stroke:none"
@@ -983,7 +1212,8 @@
       <g
          id="layer2"
          inkscape:label="Big X"
-         transform="translate(-27.365845,-294.46543)">
+         transform="translate(-27.365845,-294.46543)"
+         style="display:inline">
         <g
            inkscape:groupmode="layer"
            id="layer3"
@@ -1004,28 +1234,34 @@
         <g
            inkscape:groupmode="layer"
            id="layer7"
-           inkscape:label="Xfce_Shadow" />
+           inkscape:label="Xfce_Shadow"
+           style="display:inline" />
         <g
            inkscape:groupmode="layer"
            id="layer6"
-           inkscape:label="Xfce_Path" />
+           inkscape:label="Xfce_Path"
+           style="display:inline" />
         <g
            inkscape:groupmode="layer"
            id="layer13"
-           inkscape:label="Xfce_Gloss" />
+           inkscape:label="Xfce_Gloss"
+           style="display:inline" />
       </g>
       <g
          id="layer8"
          inkscape:label="Mouse"
-         transform="translate(-27.365845,-294.46543)">
+         transform="translate(-27.365845,-294.46543)"
+         style="display:inline">
         <g
            inkscape:groupmode="layer"
            id="layer12"
-           inkscape:label="Mouse_Shadow" />
+           inkscape:label="Mouse_Shadow"
+           style="display:inline" />
         <g
            inkscape:groupmode="layer"
            id="layer10"
-           inkscape:label="Mouse_Path">
+           inkscape:label="Mouse_Path"
+           style="display:inline">
           <g
              id="g4088"
              transform="translate(10,12.002506)">
@@ -1111,130 +1347,14 @@
         <g
            inkscape:groupmode="layer"
            id="layer15"
-           inkscape:label="Mouse_Gloss" />
+           inkscape:label="Mouse_Gloss"
+           style="display:inline" />
       </g>
     </g>
   </g>
   <g
      id="g3760"
-     transform="translate(0,-1.6593933e-4)">
-    <rect
-       id="rect3305-2-0"
-       style="fill:#eeeeee;fill-opacity:1;stroke:#cccccc;stroke-width:8.46735001;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       y="618.3396"
-       x="1647.3033"
-       ry="31.137993"
-       rx="46.317905"
-       height="867.78174"
-       width="1115.9934" />
-    <rect
-       id="rect3305-2-0-9"
-       style="fill:#eeeeee;fill-opacity:1;stroke:#cccccc;stroke-width:8.47848129;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       y="618.3396"
-       x="208.15591"
-       ry="31.219917"
-       rx="46.317905"
-       height="870.06488"
-       width="1115.9934" />
-    <flowRoot
-       transform="translate(1236.2171,-190.69732)"
-       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#154374;fill-opacity:1;stroke:none"
-       id="flowRoot3488"
-       xml:space="preserve"><flowRegion
-         id="flowRegion3490"
-         style="font-family:sans-serif"><rect
-           style="font-family:sans-serif;fill:#154374;fill-opacity:1"
-           y="1020.571"
-           x="-836.80768"
-           height="738.48273"
-           width="997.89313"
-           id="rect3492" /></flowRegion><flowPara
-         style="font-size:56px;line-height:1.25;font-family:sans-serif;fill:#154374;fill-opacity:1"
-         id="flowPara3494">Text editor Mousepad</flowPara><flowPara
-         style="font-size:56px;line-height:1.25;font-family:sans-serif;fill:#154374;fill-opacity:1"
-         id="flowPara3496">Web browser Midori</flowPara><flowPara
-         style="font-size:56px;line-height:1.25;font-family:sans-serif;fill:#154374;fill-opacity:1"
-         id="flowPara3498">Terminal</flowPara><flowPara
-         style="font-size:56px;line-height:1.25;font-family:sans-serif;fill:#154374;fill-opacity:1"
-         id="flowPara3500">Volume control Mixer</flowPara><flowPara
-         style="font-size:56px;line-height:1.25;font-family:sans-serif;fill:#154374;fill-opacity:1"
-         id="flowPara3502">Media player Parole</flowPara><flowPara
-         style="font-size:56px;line-height:1.25;font-family:sans-serif;fill:#154374;fill-opacity:1"
-         id="flowPara3504">Image viewer Ristretto</flowPara><flowPara
-         style="font-size:56px;line-height:1.25;font-family:sans-serif;fill:#154374;fill-opacity:1"
-         id="flowPara3506">Burn media with Xfburn</flowPara><flowPara
-         style="font-size:56px;line-height:1.25;font-family:sans-serif;fill:#154374;fill-opacity:1"
-         id="flowPara3508">Calendar Orage</flowPara><flowPara
-         style="font-size:56px;line-height:1.25;font-family:sans-serif;fill:#154374;fill-opacity:1"
-         id="flowPara3510">Archive manager Squeeze</flowPara></flowRoot>    <text
-       transform="scale(1.035455,0.96575901)"
-       x="427.6434"
-       y="796.57654"
-       style="font-style:normal;font-weight:normal;font-size:59.4103775px;line-height:0%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none"
-       id="text3307"
-       xml:space="preserve"><tspan
-         x="427.6434"
-         y="796.57654"
-         style="font-weight:bold;font-size:90px;fill:#154374;fill-opacity:1"
-         id="tspan3309">Applications</tspan></text>
-    <text
-       x="1672.879"
-       y="796.63593"
-       style="font-style:normal;font-weight:normal;font-size:60.02856064px;line-height:0%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none"
-       id="text3251-1"
-       xml:space="preserve"
-       transform="scale(1.0390402,0.96242667)"><tspan
-         x="1672.879"
-         y="796.63593"
-         style="font-weight:bold;font-size:90px;fill:#154374;fill-opacity:1"
-         id="tspan3253-03">Core Components</tspan></text>
-    <text
-       id="text3602"
-       y="884.98853"
-       x="1834.2816"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#154374;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1"
-         y="884.98853"
-         x="1834.2816"
-         id="tspan3604"
-         sodipodi:role="line">Panel</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1"
-         id="tspan3606"
-         y="954.98853"
-         x="1834.2816"
-         sodipodi:role="line">Window Manager</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1"
-         id="tspan3608"
-         y="1024.9885"
-         x="1834.2816"
-         sodipodi:role="line">Desktop Manager</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1"
-         id="tspan3610"
-         y="1094.9885"
-         x="1834.2816"
-         sodipodi:role="line">Power Manager</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1"
-         id="tspan3612"
-         y="1164.9885"
-         x="1834.2816"
-         sodipodi:role="line">Session Manager</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1"
-         id="tspan3614"
-         y="1234.9885"
-         x="1834.2816"
-         sodipodi:role="line">Settings Manager</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1"
-         id="tspan3616"
-         y="1304.9885"
-         x="1834.2816"
-         sodipodi:role="line">File Manager</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1"
-         id="tspan3618"
-         y="1374.9885"
-         x="1834.2816"
-         sodipodi:role="line">Application Finder</tspan></text>
-  </g>
+     transform="translate(0,-1.6593933e-4)" />
   <flowRoot
      xml:space="preserve"
      id="flowRoot3668"
@@ -1287,64 +1407,4 @@
          y="3706.7236"
          style="font-family:sans-serif" /></flowRegion><flowPara
        id="flowPara3929"
-       style="font-size:40px;line-height:1.25;font-family:sans-serif"> </flowPara></flowRoot>  <g
-     id="g3999"
-     transform="translate(0,4.2915344e-6)">
-    <rect
-       id="rect3305-2-0-7"
-       style="fill:#eeeeee;fill-opacity:1;stroke:#cccccc;stroke-width:12.08495235;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       y="3246.2837"
-       x="208.15617"
-       ry="27.703356"
-       rx="106.0479"
-       height="772.06213"
-       width="2555.1406" />
-    <flowRoot
-       transform="translate(-179.59967,-428.27716)"
-       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#154374;fill-opacity:1;stroke:none"
-       id="flowRoot3948"
-       xml:space="preserve"><flowRegion
-         id="flowRegion3950"
-         style="font-family:sans-serif"><rect
-           style="font-family:sans-serif;fill:#154374;fill-opacity:1"
-           y="3836.4287"
-           x="456.06018"
-           height="629.18958"
-           width="2668.1184"
-           id="rect3952" /></flowRegion><flowPara
-         style="font-size:56px;line-height:1.25;font-family:sans-serif;fill:#154374;fill-opacity:1"
-         id="flowPara3954">Panel plugins (for resources, clipboard management, launchers, ...)</flowPara><flowPara
-         style="font-size:56px;line-height:1.25;font-family:sans-serif;fill:#154374;fill-opacity:1"
-         id="flowPara3956">File Manager plugins (customisable &quot;Send to&quot;, rename, media tags, archives, ...)</flowPara><flowPara
-         style="font-size:56px;line-height:1.25;font-family:sans-serif;fill:#154374;fill-opacity:1"
-         id="flowPara3958">Manage remote filesystems (SFTP, FTP, WebDAV, Windows shares, Archives)</flowPara><flowPara
-         style="font-size:56px;line-height:1.25;font-family:sans-serif;fill:#154374;fill-opacity:1"
-         id="flowPara3960">Download Manager</flowPara><flowPara
-         style="font-size:56px;line-height:1.25;font-family:sans-serif;fill:#154374;fill-opacity:1"
-         id="flowPara3970">Task Manager</flowPara><flowPara
-         style="font-size:56px;line-height:1.25;font-family:sans-serif;fill:#154374;fill-opacity:1"
-         id="flowPara3972">Screenshoot application</flowPara><flowPara
-         style="font-size:56px;line-height:1.25;font-family:sans-serif;fill:#154374;fill-opacity:1"
-         id="flowPara3974">Dictionary</flowPara><flowPara
-         style="font-size:56px;line-height:1.25;font-family:sans-serif;fill:#154374;fill-opacity:1"
-         id="flowPara3976">Various MPD clients</flowPara><flowPara
-         style="font-size:56px;line-height:1.25;font-family:sans-serif;fill:#154374;fill-opacity:1"
-         id="flowPara3962"> </flowPara><flowPara
-         style="font-size:56px;line-height:1.25;font-family:sans-serif;fill:#154374;fill-opacity:1"
-         id="flowPara3964"> </flowPara><flowPara
-         style="font-size:56px;line-height:1.25;font-family:sans-serif;fill:#154374;fill-opacity:1"
-         id="flowPara3966"> </flowPara><flowPara
-         style="font-size:56px;line-height:1.25;font-family:sans-serif;fill:#154374;fill-opacity:1"
-         id="flowPara3968"> </flowPara></flowRoot>    <text
-       x="1225.9966"
-       y="3496.9412"
-       style="font-style:normal;font-weight:normal;font-size:60.02856064px;line-height:0%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none"
-       id="text3251-8-5"
-       xml:space="preserve"
-       transform="scale(1.0390402,0.96242667)"><tspan
-         x="1225.9966"
-         y="3496.9412"
-         style="font-weight:bold;font-size:90px;fill:#154374;fill-opacity:1"
-         id="tspan3253-0-4">Goodies</tspan></text>
-  </g>
-</svg>
+       style="font-size:40px;line-height:1.25;font-family:sans-serif"> </flowPara></flowRoot></svg>
