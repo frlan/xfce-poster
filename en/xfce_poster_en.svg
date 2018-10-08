@@ -1077,11 +1077,6 @@
          sodipodi:role="line"
          id="tspan1148">Image viewer Ristretto</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1;stroke-width:1"
-         y="1300.8706"
-         x="386.86548"
-         sodipodi:role="line"
-         id="tspan1150">Burn media with Xfburn</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1;stroke-width:1"
          y="1370.8706"
          x="386.86548"
          sodipodi:role="line"
@@ -1111,12 +1106,12 @@
          y="3608.1365"
          x="370.5856"
          sodipodi:role="line"
-         id="tspan1244">Manage remote filesystems (SFTP, FTP, WebDAV, Windows shares, Archives)</tspan><tspan
+         id="tspan1244">Manage remote filesystems (SFTP, FTP, WebDAV, Windows shares, archives)</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:55.57553864px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1;stroke-width:0.99242038"
-         y="3677.6057"
+         y="3886.0142"
          x="370.5856"
          sodipodi:role="line"
-         id="tspan1246">Download Manager</tspan><tspan
+         id="tspan1252">Catfish File Search</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:55.57553864px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1;stroke-width:0.99242038"
          y="3747.0752"
          x="370.5856"
@@ -1126,17 +1121,12 @@
          y="3816.5447"
          x="370.5856"
          sodipodi:role="line"
-         id="tspan1250">Screenshoot application</tspan><tspan
+         id="tspan1250">Screenshooter application</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:55.57553864px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1;stroke-width:0.99242038"
          y="3886.0142"
          x="370.5856"
          sodipodi:role="line"
-         id="tspan1252">Dictionary</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:55.57553864px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#154374;fill-opacity:1;stroke-width:0.99242038"
-         y="3955.4834"
-         x="370.5856"
-         sodipodi:role="line"
-         id="tspan1254">Various MPD clients</tspan></text>
+         id="tspan1252">PulseAudio Manager</tspan></text>
   </g>
   <text
      xml:space="preserve"
